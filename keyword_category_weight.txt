@@ -164,6 +164,7 @@ space7,sanitary,5
 香皂,sanitary,3
 维达,sanitary,3
 白猫,sanitary,2
+金曜石,jewelry,5
 腕表,jewelry,3
 钢带,jewelry,3
 表盘,jewelry,3
